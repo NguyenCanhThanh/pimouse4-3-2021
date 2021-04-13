@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/pimouse/devel
+
+Name: pimouse_vision_control
+Description: Description of pimouse_vision_control
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

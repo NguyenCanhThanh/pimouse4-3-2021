@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/pimouse/install
+
+Name: raspimouse_navigation_3
+Description: Description of raspimouse_navigation_3
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

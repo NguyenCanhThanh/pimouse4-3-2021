@@ -1,0 +1,2 @@
+imu:line_follwer:object_tracking:pimouse_control:pimouse_gmapping:pimouse_hector:pimouse_karto:pimouse_monitor:pimouse_run_corridor:pimouse_vision_control:raspimouse_navigation:raspimouse_ros_2:slam_karto
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/pimouse/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/pimouse/install -G Unix Makefiles

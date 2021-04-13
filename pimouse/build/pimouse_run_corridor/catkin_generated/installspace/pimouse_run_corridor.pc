@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/pimouse/install
+
+Name: pimouse_run_corridor
+Description: Description of pimouse_run_corridor
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

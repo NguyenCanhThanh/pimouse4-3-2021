@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/pimouse/install
+
+Name: pimouse_monitor
+Description: Description of pimouse_monitor
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
